@@ -5,3 +5,7 @@ Após as mudanças no site MeuAlelo.com.br, as consultas de saldo do cartão de 
 
 Este projeto visa, facilitar estas consulta armazendo os seus cartões e solicitando que você resolva o captcha caso seja necessário. Nos últimos teste era  necessário resolver uma única vez por dia.
 
+#Download
+
+Útilma versão: [v0.0.1](https://github.com/TSpana/MeuAlelo/releases)
+
