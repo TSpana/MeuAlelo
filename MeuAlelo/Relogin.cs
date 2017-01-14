@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MeuAlelo.Source.Alelo;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

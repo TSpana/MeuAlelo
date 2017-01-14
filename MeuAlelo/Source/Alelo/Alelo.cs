@@ -7,7 +7,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MeuAlelo
+namespace MeuAlelo.Source.Alelo
 {
     public class Alelo
     {

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace MeuAlelo
+namespace MeuAlelo.Source.Alelo
 {
     public class AleloExtrato : List<ExtratoDados>
     {
