@@ -72,7 +72,7 @@ namespace MeuAlelo
         public async Task<AleloDados> LoadCartao(string cartao, string capta)
         {
             try
-            {//5067641239440019
+            {
                 Dictionary<string, string> dic = new Dictionary<string, string>();
                 dic["txtCartao1"] = cartao;
                 dic["captcha"] = capta;
